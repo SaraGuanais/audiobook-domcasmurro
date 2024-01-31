@@ -7,10 +7,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/sara.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
