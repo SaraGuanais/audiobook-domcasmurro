@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://saraguanais.github.io/audiobook-domcasmurro/">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://saraguanais.github.io/audiobook-domcasmurro/">Projeto finalizado</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
